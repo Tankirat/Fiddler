@@ -56,6 +56,11 @@ Fiddler has very useful feature to save and share the web traffic and logs to th
 ![Share Session](https://github.com/Tankirat/Fiddler/blob/main/MicrosoftTeams-image%20(4).png)
 
 
+### Autoresponder:
+
+Using autoresponder user can apply specific rules on the particular URLs or requests and when request meets the rule parameters the applied rules such as Update Request Body, Update Response Body, Update URL, Manual Response, Response File, Delay Request etc. This can be shown in the below screenshot where rule is being set for youtube.com.
+
+![Share Session](https://github.com/Tankirat/Fiddler/blob/main/MicrosoftTeams-image%20(4.png)
 
 
 
