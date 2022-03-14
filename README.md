@@ -51,6 +51,11 @@ Now we can inspect both the HTTP/HTTPS traffic as shown below.
 
 Fiddler has very useful feature to save and share the web traffic and logs to the teams which can be shown below screen shots. 
 
+![Save Session](https://github.com/Tankirat/Fiddler/blob/main/MicrosoftTeams-image%20(6).png)
+
+![Share Session](https://github.com/Tankirat/Fiddler/blob/main/MicrosoftTeams-image%20(4).png)
+
+
 
 
 
