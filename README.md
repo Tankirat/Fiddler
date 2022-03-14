@@ -47,6 +47,13 @@ Now we can inspect both the HTTP/HTTPS traffic as shown below.
 ![HTTPS Setting](https://github.com/Tankirat/Fiddler/blob/main/MicrosoftTeams-image%20(3).png)
 
 
+### Team Collboration:
+
+Fiddler has very useful feature to save and share the web traffic and logs to the teams which can be shown below screen shots. 
+
+
+
+
 
 
 ## Refrences:
