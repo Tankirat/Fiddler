@@ -65,7 +65,7 @@ Using autoresponder user can apply specific rules on the particular URLs or requ
 ![Share Session](https://github.com/Tankirat/Fiddler/blob/main/MicrosoftTeams-image%20(8).png)
 
 ### Mobile Debugging:
-Using Mobile debugging we can redirect the web traffic from the Android, or Ios mobile device to the system where fiddler is running, we have manually set the ip and the port of the system in the proxy on the mobile device then installed the fiddler CA certificate on the mobile device, Using this we are able to redirect the web traffic, both HTTTP/HTTPS requests and responses to the Fiddler proxy which can then be processed and inspected. This can be seen in the below screenshots. 
+Using Mobile debugging we can redirect the web traffic from the Android, or Ios mobile device to the system where fiddler is running, we have manually set the ip and the port of the system in the proxy on the mobile device then installed the fiddler CA certificate on the mobile device, Using this we are able to redirect the web traffic, both HTTTP/HTTPS requests and responses to the Fiddler proxy which can then be processed and inspected. This can be seen in the below screenshot. Here you can see the traffic from the website owl.com opened on the Mobile device which can be seen on the traffic logs on the Fiddler.  
 
 ![Share Session](https://github.com/Tankirat/Fiddler/blob/main/MicrosoftTeams-image%20(10).png)
 
