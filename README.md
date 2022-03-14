@@ -40,7 +40,7 @@ A proxy is a server application that run in between the client that making the w
 
 To inspect the HTTP/HTTPS traffic we first need to install the root certificate, which can be done by selecting the HTTPS options and then trusting the root certificate shown in below screenshot. 
 
-
+![HTTPS Setting](https://github.com/Tankirat/Fiddler/blob/main/MicrosoftTeams-image%20(3).png)
 
 
 
